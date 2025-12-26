@@ -148,16 +148,16 @@
         "settings.textInputForeground": "#bb77ff",
         "sideBar.background": "#000000",
         "sideBar.border": "#20474b",
-        "sideBar.foreground": "#999999",
+        "sideBar.foreground": "#00ff62b9",
         "sideBarSectionHeader.background": "#000000",
         "sideBarSectionHeader.border": "#0f111a60",
-        "sideBarSectionHeader.foreground": "#ff7700",
+        "sideBarSectionHeader.foreground": "#00ff62b9",
         "sideBarTitle.foreground": "#77ff77",
         "statusBar.background": "#000000",
         "statusBar.border": "#000000",
         "statusBar.debuggingBackground": "#000000",
         "statusBar.debuggingForeground": "#7e7e7e",
-        "statusBar.foreground": "#00ffff",
+        "statusBar.foreground": "#00ff62b9",
         "statusBar.noFolderBackground": "#0f111a",
         "statusBarItem.hoverBackground": "#01fdfd1a",
         "statusBarItem.remoteBackground": "#80cbc4",
@@ -496,7 +496,7 @@
                 "punctuation.definition.comment"
             ],
             "settings": {
-                "foreground": "#7F0000",
+                "foreground": "#666666",
                 "fontStyle": ""
             }
         },
