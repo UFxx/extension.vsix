@@ -37,7 +37,7 @@
         "editor.snippetTabstopHighlightBorder": "#000000",
         "editorBracketMatch.background": "#0f111a",
         "editorBracketMatch.border": "#ffcc0050",
-        "editorCursor.foreground": "#ffcc00",
+        "editorCursor.foreground": "#00ff62b9",
         "editorError.foreground": "#ff537070",
         "editorGroup.border": "#00000030",
         "editorGroupHeader.tabsBackground": "#000000",
